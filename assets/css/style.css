@@ -173,6 +173,8 @@ body {
   /* PORTFOLIO PAGE */
   .port-image {
     margin: 20px auto;
+    width: 350px;
+    height: 350px;
   }
   /* END PORTFOLIO PAGE */
   
